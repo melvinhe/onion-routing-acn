@@ -1,4 +1,4 @@
-# Onion Routing ACN
+# Onion Routing - Achieving A More Resilient and Privacy Preserving Network
 
 This Go-based project simulates an onion routing system, comprising two main components: onion-proxy and onion-router. The onion-proxy is responsible for creating encrypted circuits and relaying data, while the onion-router serves as a network node that handles circuit extension and data relay.
 
